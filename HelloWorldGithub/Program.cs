@@ -14,7 +14,7 @@ namespace HelloWorldGithub
 	{
 		public static void Main(string[] args)
 		{
-			Console.WriteLine("Hello World!");
+			Console.WriteLine("Hello World! Github ang Git");
 			
 			// TODO: Implement Functionality Here
 			
